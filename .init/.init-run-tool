@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/serverless-e-commerce-checkout-system-215564-215574/ecommerce_frontend"
+}
